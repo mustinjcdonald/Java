@@ -1,0 +1,4 @@
+CREATE TABLE USERS (
+    fname VARCHAR2(255),
+    lname VARCHAR2(255),
+    email VARCHAR2(255) PRIMARY KEY);

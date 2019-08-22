@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Dropbox/UCA/My Teaching/Fall Semesters/2018/MIS 3339 - Programming in Java 1.5/Class 19/Database Wrapper/lib/ojdbc7.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
